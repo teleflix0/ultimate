@@ -18,12 +18,12 @@
           href="http://purl.org/dc/dcmitype/InteractiveResource"
           property="dct:title"
           rel="dct:type"
-          >Google Drive Index</span
+          >TTU</span
         >
         by
         <a
           xmlns:cc="http://creativecommons.org/ns#"
-          href="https://github.com/tks18"
+          href="https://t.me/ttuindex"
           property="cc:attributionName"
           rel="cc:attributionURL"
           >Sudharshan TK</a
@@ -34,7 +34,7 @@
         >.<br />Based on a work at
         <a
           xmlns:dct="http://purl.org/dc/terms/"
-          href="https://github.com/tks18/gindex-v4"
+          href="https://t.me/ttuindex"
           rel="dct:source"
           >Github</a
         >
