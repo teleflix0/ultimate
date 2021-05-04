@@ -27,7 +27,7 @@ export default {
   },
   data: function () {
     return {
-      github: 'https://github.com/tks18/gindex-v4',
+      github: 'https://github.com/teleflix0/ultimate',
       netflix_black: false,
       showInfo: true,
       logged: false,
@@ -82,7 +82,7 @@ export default {
         let appVersion = window.version;
         try {
           this.$backend
-            .get('https://api.github.com/repos/tks18/gindex-v4/releases')
+            .get('https://api.github.com/repos/teleflix0/ultimate/releases')
             .then((response) => {
               if (response.data) {
                 let latestVersion = response.data.filter((releases) => {
